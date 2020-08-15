@@ -41,7 +41,7 @@ class _exploreState extends State<explore> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Container(
-        color: Colors.amber,
+        color: Colors.pink,
         padding: EdgeInsets.all(10.0),
         child: Scaffold(
           backgroundColor: Colors.transparent,

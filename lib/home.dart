@@ -81,22 +81,22 @@ class _homeState extends State<home> {
                             color: Colors.transparent,
                             image: DecorationImage(
                                 image:
-                                    AssetImage("assets/backgroundforgold.jpeg"),
-                                fit: BoxFit.cover))),
+                                    AssetImage("assets/backgroundforpink.jpg"),
+                                fit: BoxFit.fill))),
                       ),
                       //Positioned(top: 0,left: 20,child: customAppBar("Chats",Icons.search,Icons.more_vert, () { })),
 
                       Scaffold(
                         backgroundColor: Colors.transparent,
                         appBar: PreferredSize(
-                          preferredSize: Size.fromHeight(20.0),
+                          preferredSize: Size.fromHeight(30.0),
                           child: AppBar(
                             centerTitle: true,
                             title: Container(
                               //padding:EdgeInsets.all(50.0),
-                              width: 100.0,
+                              width: 150.0,
                                 decoration: BoxDecoration(
-                                  color: Colors.amber,
+                                  color: Colors.pink,
                                   borderRadius: BorderRadius.only(
                                       bottomRight: Radius.circular(90.0),
                                       bottomLeft: Radius.circular(90.0)),
@@ -283,7 +283,7 @@ class contactNav extends StatelessWidget {
           height: 20.0,
           width: 150.0,
           decoration: BoxDecoration(
-            color: Colors.amber,
+            color: Colors.pink[100],
             borderRadius: BorderRadius.only(
                 topRight: Radius.circular(90.0),
                 topLeft: Radius.circular(90.0)),
