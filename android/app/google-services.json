@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240025312646",
+    "firebase_url": "https://howfa-f6792.firebaseio.com",
+    "project_id": "howfa-f6792",
+    "storage_bucket": "howfa-f6792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240025312646:android:b244e074a6b74ed0e36007",
+        "android_client_info": {
+          "package_name": "howfa.howfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240025312646-je7kcd1d5kquip8mvdijd4iosom6a5rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "howfa.howfa",
+            "certificate_hash": "633afaf581ffd6fe5cdacc8e034be0962815c342"
+          }
+        },
+        {
+          "client_id": "240025312646-rvalj9k5sq5i0st2lum40g4qofh4k2qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybip_feLDvu7Td8x_TpvsvoGOW6r1HCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240025312646-rvalj9k5sq5i0st2lum40g4qofh4k2qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
